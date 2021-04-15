@@ -1,7 +1,7 @@
 #! /bin/bash
-# Author James Keene 10464630
+# Author James Keene 
 # CSP2101 Scripting Languages: Assignment 2.1 Portfolio Task 1.
-# Lecturer Vince Brown ECU
+
 
 let sum="$1"+"$2"+"$3" sum
 
