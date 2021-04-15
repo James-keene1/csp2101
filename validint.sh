@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # CSP2101-Sripting Languages: Assignment 2.1-Portfolio Task 2
-# Aurthor James Keene 10464630
+# Aurthor James Keene 
 # The script requires the user to enter a two digit code and will reject
 # all other input until the correct code is entered.
 
