@@ -1,6 +1,6 @@
 #! /bin/bash
 # Author James Keene 
-# CSP2101 Scripting Languages: Assignment 2.1 Portfolio Task 1.
+# Task 1.
 
 
 let sum="$1"+"$2"+"$3" sum
