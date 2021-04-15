@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#Task 2
+# Task 2
 # Aurthor James Keene 
 # The script requires the user to enter a two digit code and will reject
 # all other input until the correct code is entered.
